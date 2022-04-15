@@ -73,6 +73,13 @@ CASKS=(
     tableplus
     visual-studio-code
     zoom
+
+    # mac security tools
+    oversight
+    reikey
+    knockknock
+    netiquette
+    lulu
 )
 
 echo "Installing cask apps..."
